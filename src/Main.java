@@ -6,7 +6,7 @@ public class Main
     {
         Cube c = new Cube();
         c.scale(100);
-        c.translate(-50,-50,0);
+        c.translate(-50,-50,-50);
         c.rotate(0,0,0);
         Viewer v = new Viewer(c);
     }

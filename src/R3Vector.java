@@ -56,6 +56,7 @@ public class R3Vector
     {
         return a.x*b.x + a.y*b.y + a.z*b.z;
     }
+
     public static R3Vector vectPr(R3Vector a, R3Vector b)
     {
         return new R3Vector(a.y*b.z - a.z*b.y, a.z*b.x - a.x*b.z, a.x*b.y - a.y*b.x);

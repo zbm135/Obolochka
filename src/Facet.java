@@ -1,4 +1,5 @@
 import java.awt.*;
+import java.awt.geom.Ellipse2D;
 import java.awt.geom.Path2D;
 
 public class Facet
@@ -48,6 +49,11 @@ public class Facet
                                new R3Vector(vertex[3].getX() - vertex[0].getX(),
                                             vertex[3].getY() - vertex[0].getY(),
                                             vertex[3].getZ() - vertex[0].getZ()));
+    }
+
+    public R3Vector norm(R3Vector v)
+    {
+        return new R3Vector(v.getX()*0.03, v.getY()*0.03, v.getZ()*0.03);
     }
 
     public void scale(double m)
@@ -122,18 +128,22 @@ public class Facet
 
         if (facet.normal().getZ()>0)
         {
+
             p1.moveTo(centerX,centerY);
-            p1.lineTo(-facet.normal().getX(),-facet.normal().getY());
+            p1.lineTo((-facet.normal().getX()+centerX)*0.01+centerX,(-facet.normal().getY()+centerY)*0.01+centerY);
             p1.closePath();
             g.setColor(color);
             g.fill(p);
             g.setColor(Color.BLACK);
+            //g.fillOval((int)centerX,(int)centerY,3,3);  принимал только int
+            Ellipse2D.Double shape = new Ellipse2D.Double(centerX -1 , centerY -1, 2, 2);  // принимает double
+            g.draw(shape);
             g.draw(p1);
         }
         else
         {
             p2.moveTo(centerX,centerY);
-            p2.lineTo(-facet.normal().getX(),-facet.normal().getY());
+            p2.lineTo((-facet.normal().getX()+centerX)*0.01+centerX,(-facet.normal().getY()+centerY)*0.01+centerY);
             p2.closePath();
             g.setColor(Color.BLACK);
             g.draw(p2);

@@ -17,7 +17,7 @@ public class Frame extends JFrame {
         this.convex=convex; // инициализация конвекс
         //
     }
-
+//
     public void paint(Graphics g)
     {
         Rectangle s = this.getBounds(); // использование размеров окна динамически

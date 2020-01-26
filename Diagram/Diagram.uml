@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="320.3417929292929" y="1724.0">Frame</node>
+    <node x="160.34179292929292" y="961.0">Segment</node>
+    <node x="284.8417929292929" y="1915.0">ConvexTest</node>
+    <node x="329.8417929292929" y="1365.0">Void</node>
+    <node x="115.34179292929292" y="726.0">Polygon</node>
+    <node x="329.8417929292929" y="1533.0">Convex</node>
+    <node x="432.3417929292929" y="1174.0">Point</node>
+    <node x="367.1016414141415" y="407.5">Figure</node>
+    <node x="99.84179292929286" y="297.0">Deq</node>
+    <node x="23.879419191919283" y="0.0">R2Point</node>
+    <node x="561.3973484848485" y="69.0">Main</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Void" target="R2Point">
+      <point x="-64.875" y="-59.0" />
+      <point x="351.4667929292929" y="1340.0" />
+      <point x="56.341792929292865" y="1340.0" />
+      <point x="56.341792929292865" y="237.0" />
+      <point x="87.83775252525265" y="237.0" />
+      <point x="-89.54166666666663" y="103.5" />
+    </edge>
+    <edge source="Polygon" target="Deq">
+      <point x="-5.6843418860808015E-14" y="-92.5" />
+      <point x="49.0" y="169.5" />
+    </edge>
+    <edge source="Convex" target="Figure">
+      <point x="57.66666666666666" y="-70.5" />
+      <point x="474.0084595959596" y="1508.0" />
+      <point x="615.841792929293" y="1508.0" />
+      <point x="615.841792929293" y="706.0" />
+      <point x="530.4905303030305" y="706.0" />
+      <point x="76.88888888888891" y="59.0" />
+    </edge>
+    <edge source="Segment" target="Figure">
+      <point x="69.19999999999999" y="-81.5" />
+      <point x="316.0417929292929" y="941.0" />
+      <point x="399.8417929292929" y="941.0" />
+      <point x="399.8417929292929" y="686.0" />
+      <point x="434.3794191919193" y="686.0" />
+      <point x="-19.22222222222223" y="59.0" />
+    </edge>
+    <edge source="Polygon" target="Figure">
+      <point x="52.599999999999966" y="-92.5" />
+      <point x="299.4417929292929" y="656.0" />
+      <point x="376.71275252525265" y="656.0" />
+      <point x="-76.88888888888889" y="59.0" />
+    </edge>
+    <edge source="Point" target="Figure">
+      <point x="-34.599999999999966" y="-70.5" />
+      <point x="484.24179292929296" y="1154.0" />
+      <point x="506.25848484848484" y="1154.0" />
+      <point x="506.25848484848484" y="706.0" />
+      <point x="492.04608585858597" y="706.0" />
+      <point x="38.44444444444446" y="59.0" />
+    </edge>
+    <edge source="ConvexTest" target="Frame">
+      <point x="33.39999999999998" y="-26.0" />
+      <point x="401.7417929292929" y="1885.0" />
+      <point x="464.3417929292929" y="1885.0" />
+      <point x="48.0" y="70.5" />
+    </edge>
+    <edge source="Segment" target="R2Point">
+      <point x="-69.19999999999999" y="-81.5" />
+      <point x="177.64179292929293" y="941.0" />
+      <point x="67.34179292929286" y="941.0" />
+      <point x="67.34179292929286" y="247.0" />
+      <point x="113.42108585858597" y="247.0" />
+      <point x="-63.958333333333314" y="103.5" />
+    </edge>
+    <edge source="ConvexTest" target="R2Point">
+      <point x="-66.80000000000001" y="-26.0" />
+      <point x="301.5417929292929" y="1895.0" />
+      <point x="26.0" y="1895.0" />
+      <point x="26.0" y="277.0" />
+      <point x="36.67108585858597" y="277.0" />
+      <point x="-140.70833333333331" y="103.5" />
+    </edge>
+    <edge source="Void" target="Figure">
+      <point x="-21.625" y="-59.0" />
+      <point x="394.7167929292929" y="1340.0" />
+      <point x="410.8417929292929" y="1340.0" />
+      <point x="410.8417929292929" y="696.0" />
+      <point x="453.6016414141415" y="696.0" />
+      <point x="0.0" y="59.0" />
+    </edge>
+    <edge source="Point" target="Segment">
+      <point x="-69.19999999999999" y="-70.5" />
+      <point x="449.64179292929293" y="1154.0" />
+      <point x="246.84179292929292" y="1154.0" />
+      <point x="0.0" y="81.5" />
+    </edge>
+    <edge source="Deq" target="R2Point">
+      <point x="-5.6843418860808015E-14" y="-169.5" />
+      <point x="197.8417929292928" y="277.0" />
+      <point x="215.75441919191923" y="277.0" />
+      <point x="38.37499999999994" y="103.5" />
+    </edge>
+    <edge source="Convex" target="Void">
+      <point x="0.0" y="-70.5" />
+      <point x="0.0" y="59.0" />
+    </edge>
+    <edge source="Convex" target="R2Point">
+      <point x="-57.66666666666666" y="-70.5" />
+      <point x="358.67512626262624" y="1508.0" />
+      <point x="45.341792929292865" y="1508.0" />
+      <point x="45.341792929292865" y="227.0" />
+      <point x="62.25441919191928" y="227.0" />
+      <point x="-115.125" y="103.5" />
+    </edge>
+    <edge source="Polygon" target="R2Point">
+      <point x="-105.20000000000005" y="-92.5" />
+      <point x="141.64179292929288" y="706.0" />
+      <point x="89.34179292929286" y="706.0" />
+      <point x="89.34179292929286" y="267.0" />
+      <point x="164.5877525252526" y="267.0" />
+      <point x="-12.791666666666686" y="103.5" />
+    </edge>
+    <edge source="Frame" target="Convex">
+      <point x="-48.0" y="-70.5" />
+      <point x="368.3417929292929" y="1699.0" />
+      <point x="394.7167929292929" y="1699.0" />
+      <point x="-21.625" y="70.5" />
+    </edge>
+    <edge source="Segment" target="Polygon">
+      <point x="0.0" y="-81.5" />
+      <point x="0.0" y="92.5" />
+    </edge>
+    <edge source="Void" target="Point">
+      <point x="64.875" y="-59.0" />
+      <point x="481.2167929292929" y="1340.0" />
+      <point x="518.841792929293" y="1340.0" />
+      <point x="0.0" y="70.5" />
+    </edge>
+    <edge source="ConvexTest" target="Convex">
+      <point x="-33.40000000000002" y="-26.0" />
+      <point x="334.9417929292929" y="1895.0" />
+      <point x="309.8417929292929" y="1895.0" />
+      <point x="309.8417929292929" y="1699.0" />
+      <point x="351.4667929292929" y="1699.0" />
+      <point x="-64.875" y="70.5" />
+    </edge>
+    <edge source="Figure" target="R2Point">
+      <point x="0.0" y="-59.0" />
+      <point x="453.6016414141415" y="267.0" />
+      <point x="266.9210858585859" y="267.0" />
+      <point x="89.54166666666663" y="103.5" />
+    </edge>
+    <edge source="Point" target="R2Point">
+      <point x="69.19999999999999" y="-70.5" />
+      <point x="588.0417929292929" y="1154.0" />
+      <point x="642.3973484848484" y="1154.0" />
+      <point x="642.3973484848484" y="247.0" />
+      <point x="318.0877525252524" y="247.0" />
+      <point x="140.70833333333314" y="103.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="308.0" y="258.5" />
+  <SelectedNodes>
+    <node>Main</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

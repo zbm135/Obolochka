@@ -1,24 +1,163 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c2018d3-0b2f-4713-9f0a-7ab9d7f617c4" name="Default Changelist" comment="" />
+    <list default="true" id="80617f61-0ec6-46ea-a3da-c48fa74fdc8f" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Deq.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Figure.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Frame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="237">
+              <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Point.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Polygon.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="952">
+              <caret line="60" column="43" selection-start-line="60" selection-start-column="43" selection-end-line="60" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/R2Point.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Segment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Void.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1UbQZ7BmiThPQaRpj7GMyBrDgul" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Segment.java" />
+        <option value="$PROJECT_DIR$/src/Polygon.java" />
+        <option value="$PROJECT_DIR$/src/Figure.java" />
+        <option value="$PROJECT_DIR$/src/Frame.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="458" />
+    <option name="width" value="913" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectId" id="1UZGV4NCbBI2DoKHOkWnCwDnTs7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Obolochka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Obolochka" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Obolochka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Obolochka" type="462c0819:PsiDirectoryNode" />
+              <item name="Diagram" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Obolochka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Obolochka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Calc" />
-    <property name="restartRequiresConfirmation" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571999241576" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../куб" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -33,16 +172,16 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="CUBE" />
+    <configuration name="ConvexTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConvexTest" />
+      <module name="Obolochka" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ConvexTest" />
       </list>
     </recent_temporary>
   </component>
@@ -51,12 +190,384 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9c2018d3-0b2f-4713-9f0a-7ab9d7f617c4" name="Default Changelist" comment="" />
-      <created>1575622867959</created>
+      <changelist id="80617f61-0ec6-46ea-a3da-c48fa74fdc8f" name="Default Changelist" comment="" />
+      <created>1571996933054</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1575622867959</updated>
+      <updated>1571996933054</updated>
+      <workItem from="1576779273786" duration="2067000" />
+      <workItem from="1577391117740" duration="1551000" />
+      <workItem from="1580037084354" duration="117000" />
+      <workItem from="1580057691586" duration="27000" />
+      <workItem from="1580057731482" duration="783000" />
+      <workItem from="1580058597482" duration="673000" />
+      <workItem from="1571592179269" duration="44000" />
     </task>
     <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5262000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.055975795" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.049099836" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Convex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ConvexTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Diagram/Diagram.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="76.63888888888886" y="1734.0">Frame</node>
+            <node x="289.7917171717171" y="971.0">Segment</node>
+            <node x="39.788888888888835" y="1925.0">ConvexTest</node>
+            <node x="37.05555555555554" y="1375.0">Void</node>
+            <node x="239.0305555555555" y="736.0">Polygon</node>
+            <node x="23.291717171717153" y="1543.0">Convex</node>
+            <node x="125.7917171717171" y="1184.0">Point</node>
+            <node x="61.960025252525156" y="417.5">Figure</node>
+            <node x="381.0305555555555" y="307.0">Deq</node>
+            <node x="282.37669191919184" y="0.0">R2Point</node>
+            <node x="702.7334343434344" y="0.0">Main</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="Void" target="R2Point">
+              <point x="-64.87500000000006" y="-59.0" />
+              <point x="58.680555555555486" y="1350.0" />
+              <point x="0.0" y="1350.0" />
+              <point x="0.0" y="267.0" />
+              <point x="295.1683585858585" y="267.0" />
+              <point x="-140.70833333333331" y="103.5" />
+            </edge>
+            <edge source="Polygon" target="Deq">
+              <point x="105.19999999999999" y="-92.5" />
+              <point x="475.7305555555555" y="716.0" />
+              <point x="528.0305555555556" y="716.0" />
+              <point x="49.0" y="169.5" />
+            </edge>
+            <edge source="Convex" target="Figure">
+              <point x="-57.66666666666663" y="-70.5" />
+              <point x="52.125050505050524" y="1518.0" />
+              <point x="26.555555555555543" y="1518.0" />
+              <point x="26.555555555555543" y="716.0" />
+              <point x="71.5711363636363" y="716.0" />
+              <point x="-76.88888888888886" y="59.0" />
+            </edge>
+            <edge source="Segment" target="Figure">
+              <point x="-34.599999999999966" y="-81.5" />
+              <point x="341.69171717171713" y="941.0" />
+              <point x="228.5305555555555" y="941.0" />
+              <point x="228.5305555555555" y="686.0" />
+              <point x="186.90446969696956" y="686.0" />
+              <point x="38.4444444444444" y="59.0" />
+            </edge>
+            <edge source="Point" target="Figure">
+              <point x="0.0" y="-70.5" />
+              <point x="212.2917171717171" y="1164.0" />
+              <point x="198.1305555555555" y="1164.0" />
+              <point x="198.1305555555555" y="706.0" />
+              <point x="148.46002525252516" y="706.0" />
+              <point x="0.0" y="59.0" />
+            </edge>
+            <edge source="Polygon" target="Figure">
+              <point x="-105.19999999999999" y="-92.5" />
+              <point x="265.3305555555555" y="676.0" />
+              <point x="206.12669191919184" y="676.0" />
+              <point x="57.666666666666686" y="59.0" />
+            </edge>
+            <edge source="ConvexTest" target="Frame">
+              <point x="33.39999999999998" y="-26.0" />
+              <point x="156.6888888888888" y="1895.0" />
+              <point x="220.63888888888886" y="1895.0" />
+              <point x="48.0" y="70.5" />
+            </edge>
+            <edge source="Segment" target="R2Point">
+              <point x="34.60000000000002" y="-81.5" />
+              <point x="410.8917171717171" y="941.0" />
+              <point x="587.5305555555556" y="941.0" />
+              <point x="587.5305555555556" y="267.0" />
+              <point x="474.2516919191918" y="267.0" />
+              <point x="38.37499999999994" y="103.5" />
+            </edge>
+            <edge source="ConvexTest" target="R2Point">
+              <point x="66.80000000000001" y="-26.0" />
+              <point x="190.08888888888885" y="1905.0" />
+              <point x="631.7334343434344" y="1905.0" />
+              <point x="631.7334343434344" y="227.0" />
+              <point x="576.585025252525" y="227.0" />
+              <point x="140.7083333333332" y="103.5" />
+            </edge>
+            <edge source="Void" target="Figure">
+              <point x="-21.625000000000057" y="-59.0" />
+              <point x="101.93055555555549" y="716.0" />
+              <point x="90.79335858585847" y="716.0" />
+              <point x="-57.666666666666686" y="59.0" />
+            </edge>
+            <edge source="Point" target="Segment">
+              <point x="34.60000000000002" y="-70.5" />
+              <point x="246.89171717171712" y="1154.0" />
+              <point x="376.2917171717171" y="1154.0" />
+              <point x="0.0" y="81.5" />
+            </edge>
+            <edge source="Deq" target="R2Point">
+              <point x="0.0" y="-169.5" />
+              <point x="479.0305555555555" y="287.0" />
+              <point x="423.08502525252516" y="287.0" />
+              <point x="-12.791666666666686" y="103.5" />
+            </edge>
+            <edge source="Convex" target="Void">
+              <point x="0.0" y="-70.5" />
+              <point x="109.79171717171715" y="1518.0" />
+              <point x="123.55555555555554" y="1518.0" />
+              <point x="0.0" y="59.0" />
+            </edge>
+            <edge source="Convex" target="R2Point">
+              <point x="57.66666666666663" y="-70.5" />
+              <point x="167.45838383838378" y="1518.0" />
+              <point x="620.5305555555556" y="1518.0" />
+              <point x="620.5305555555556" y="237.0" />
+              <point x="551.0016919191917" y="237.0" />
+              <point x="115.12499999999989" y="103.5" />
+            </edge>
+            <edge source="Polygon" target="R2Point">
+              <point x="0.0" y="-92.5" />
+              <point x="370.5305555555555" y="287.0" />
+              <point x="371.9183585858585" y="287.0" />
+              <point x="-63.95833333333333" y="103.5" />
+            </edge>
+            <edge source="Frame" target="Convex">
+              <point x="-48.0" y="-70.5" />
+              <point x="124.63888888888886" y="1709.0" />
+              <point x="131.41671717171715" y="1709.0" />
+              <point x="21.625" y="70.5" />
+            </edge>
+            <edge source="Segment" target="Polygon">
+              <point x="0.0" y="-81.5" />
+              <point x="376.2917171717171" y="951.0" />
+              <point x="370.5305555555555" y="951.0" />
+              <point x="0.0" y="92.5" />
+            </edge>
+            <edge source="Void" target="Point">
+              <point x="64.87499999999994" y="-59.0" />
+              <point x="188.4305555555555" y="1350.0" />
+              <point x="212.2917171717171" y="1350.0" />
+              <point x="0.0" y="70.5" />
+            </edge>
+            <edge source="ConvexTest" target="Convex">
+              <point x="-66.80000000000001" y="-26.0" />
+              <point x="56.48888888888882" y="1905.0" />
+              <point x="55.13888888888886" y="1905.0" />
+              <point x="55.13888888888886" y="1709.0" />
+              <point x="44.91671717171715" y="1709.0" />
+              <point x="-64.875" y="70.5" />
+            </edge>
+            <edge source="Figure" target="R2Point">
+              <point x="5.6843418860808015E-14" y="-59.0" />
+              <point x="148.4600252525252" y="287.0" />
+              <point x="346.33502525252516" y="287.0" />
+              <point x="-89.54166666666666" y="103.5" />
+            </edge>
+            <edge source="Point" target="R2Point">
+              <point x="-69.19999999999999" y="-70.5" />
+              <point x="143.0917171717171" y="1164.0" />
+              <point x="11.0" y="1164.0" />
+              <point x="11.0" y="277.0" />
+              <point x="320.75169191919184" y="277.0" />
+              <point x="-115.12499999999999" y="103.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="308.0" y="1729.0" />
+          <SelectedNodes>
+            <node>Main</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Deq.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Figure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Point.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Polygon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="60" column="43" selection-start-line="60" selection-start-column="43" selection-end-line="60" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/R2Point.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Segment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Void.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Frame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>13</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Obolochka</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
